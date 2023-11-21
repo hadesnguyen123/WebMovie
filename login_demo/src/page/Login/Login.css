@@ -1,0 +1,41 @@
+.login {
+    background-color: rgb(238, 227, 227);
+    height: 1200px;
+}
+
+.login .container {
+    border-radius: 15px;
+    position: relative;
+    top: 200px;
+}
+
+.login .container form a,
+a {
+    color: black;
+}
+
+.login__content {
+    padding: 0 20px 20px 20px;
+}
+
+.login .container button {
+    width: 100%;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+
+.form-control {
+    padding: 20px 8px;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+.login__forgetpass {
+    margin-left: 100px;
+    color: blueviolet;
+    text-decoration: none;
+}

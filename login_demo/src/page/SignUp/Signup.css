@@ -1,0 +1,38 @@
+.signup {
+    background-color: rgb(238, 227, 227);
+    height: 1200px;
+}
+
+.signup .container{
+    border-radius: 15px;
+    position: relative;
+    top:200px;
+}
+
+.signup .container form a, a{
+    color: black;
+}
+
+.signup__content{
+    padding: 0 20px 20px 20px;
+}
+
+.signup .container button{
+    width: 100%;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+
+.form-control{
+    padding: 20px 8px;
+}
+
+h3{
+    color: blueviolet;
+}
+
+form span a{
+    text-decoration: none;
+}
